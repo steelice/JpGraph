@@ -1,7 +1,7 @@
 # Librairie JpGraph IK
 
 ## Version 4.0.3
-* Fork de jpgraph/jpgraph
+* Fork du projet JpGraph : https://github.com/ztec/JpGraph
 * Compatible PHP7 
 
 ## Installation
@@ -18,7 +18,7 @@ fichier : composer.json
         ],
         "require": {
             [...]
-            "yieloo/pdf" : "4.0.3"
+            "yieloo/JpGraph" : "4.0.3"
         }
     }
 
