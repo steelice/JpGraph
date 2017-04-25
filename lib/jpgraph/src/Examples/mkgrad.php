@@ -20,7 +20,7 @@ function _cmp($a,$b) {
 class Form {
     var $iColors;
     var $iGradstyles;
-    function Form() {
+    function __construct() {
 
 	$rgb = new RGB();
 	$this->iColors = array_keys($rgb->rgb_table);
@@ -111,7 +111,7 @@ class Driver {
     var $iStyle;
     var $iForm;
 
-    function Driver() {
+    function __construct() {
 	$this->iForm = new Form();
     }
 
