@@ -1,6 +1,6 @@
 # Librairie JpGraph IK
 
-## Version 4.0.3
+## Version 4.2.0
 * Fork du projet JpGraph : https://github.com/ztec/JpGraph
 * Compatible PHP7 
 
@@ -13,12 +13,12 @@ fichier : composer.json
             [...],
             {
                 "type": "git",
-                "url": "https://github.com/yieloo/JpGraph.git"
+                "url": "https://github.com/steelice/JpGraph.git"
             }
         ],
         "require": {
             [...]
-            "yieloo/JpGraph" : "4.0.3"
+            "steelice/JpGraph" : "4.2"
         }
     }
 

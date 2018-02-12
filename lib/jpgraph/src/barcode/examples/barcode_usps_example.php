@@ -11,7 +11,7 @@ require_once ('jpgraph/jpgraph_barcode.php');
 // "Ship to/Deliver To Postal Code (within single authority)
 //
 class USPS_Confirmation {
-    function __construct() {
+    function USPS_Confirmation() {
     }
 
     // Private utility function
