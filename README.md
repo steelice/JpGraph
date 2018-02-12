@@ -1,8 +1,7 @@
-# Librairie JpGraph IK
+# Library JpGraph loader for composer
 
 ## Version 4.2.0
-* Fork du projet JpGraph : https://github.com/ztec/JpGraph
-* Compatible PHP7 
+* Compatible PHP7.1
 
 ## Installation
 
