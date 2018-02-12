@@ -1,11 +1,11 @@
 # Library JpGraph loader for composer
 
 ## Version 4.2.0
-* Compatible PHP7.1
+* Compatible PHP 7.1
 
 ## Installation
 
-fichier : composer.json
+edit : composer.json
 
     {
         "repositories": [
